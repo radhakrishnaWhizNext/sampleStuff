@@ -9,7 +9,7 @@ var fs  =   require('fs');
 
 
     // This key belongs to whiznext
-    var SENDGRID_API_KEY = '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';
+    var SENDGRID_API_KEY = '';
     var WHIZNEXT_SENDGRID_MAIL_API = 'https://api.sendgrid.com/v3/mail/send';
 
     var TO_EMAIL = 'radhakrishna@whiznext.com'; // reach mail
